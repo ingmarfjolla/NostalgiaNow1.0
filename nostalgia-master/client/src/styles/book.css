@@ -1,0 +1,106 @@
+.book-list-background{
+    background-color: #FF9A8B;
+    background-image: linear-gradient(270deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);    
+}
+
+
+/* *{
+    background-image:"https://wallpaperaccess.com/full/552869.jpg";
+    background-color: thistle;
+} */
+/* 
+.button {
+    color: red;
+    display: inline-block;
+    height: 15px;
+    padding: 15px;
+    color: #555;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 50px;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: black;
+    border-radius: 6px;
+    border: 1px solid #bbb;
+    box-sizing: border-box;
+  }
+.icon{
+    color: red;
+} */
+
+/* svg{
+    position: absolute;
+    margin: 0px;
+    background-color: black;
+    background-size: 0px;
+    border-radius: 0px;
+} */
+
+/* .books{ 
+    background-color: thistle;
+} */
+/* #yessir{
+    background-color: thistle;
+}
+    
+.blurb{
+    background-color: black;
+    color: wheat;
+}
+.dot {
+    position: absolute;
+    
+    height: 40px;
+    width: 40px;
+    background-color: mediumaquamarine;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+  }
+#help{
+    padding-top: 25px;
+    background-color: black;
+    display: inline-block;
+    margin: 25px;
+    box-align: center;
+    width: 335px;
+    height: 335px;
+} */
+/* img{
+    background-color: black;
+    /* width: 100px;
+    height:100px; */
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80%;
+    width: 80%; */
+/* } */ 
+
+/* 
+h2{
+    color: rgb(0, 0, 0);
+    background-color: black;
+    font-size: 15px;
+   
+} */
+/* a{
+    color: wheat;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+} */
+/* .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+h4{
+    background-color: black;
+    color: wheat;
+
+} */

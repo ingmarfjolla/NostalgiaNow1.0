@@ -1,0 +1,50 @@
+/* .row{
+    text-align: center;
+} */
+.category{
+    display: inline-block;
+    background: white;
+    margin: 10px;
+}
+
+h3{
+    background: white;
+}
+
+h1{
+    color: white;
+}
+
+.year-heading{
+    text-align: center;
+}
+
+.year-buttons{
+    text-align: center;
+}
+
+.icons{
+    text-align: center;
+    float: right;
+}
+
+.button-left{
+    float:left
+}
+
+.song-list-background{
+    background-color: #4158D0;
+background-image: linear-gradient(90deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+
+    /* background-color: #FEE140;
+background-image: linear-gradient(270deg, #FEE140 0%, #FA709A 100%); */
+}
+
+.title-background{
+    width: 50%;
+    border-radius: 10px;
+    /* background-color: #FFE53B;
+    background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%); */
+    
+}

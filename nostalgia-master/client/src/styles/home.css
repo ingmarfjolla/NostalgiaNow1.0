@@ -1,0 +1,74 @@
+.homepage-background{
+    background: #1a2a6c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#nostalgia-text{
+    display: flex;
+}
+
+.nostalgia-choice{
+    display: inline-block;
+}
+
+.nostalgia-row{
+    display: inline-block;
+}
+
+.introduce-user{
+    text-align: center;
+}
+
+#movie-choice{
+    /* display: inline-block; */
+    background:  linear-gradient(
+        rgba(44, 44, 44, 0.45), 
+        rgba(44, 44, 44, 0.45)
+      ), url("https://dazedimg-dazedgroup.netdna-ssl.com/900/azure/dazed-prod/1280/3/1283956.jpg");
+    /* background-image: url("https://static.billboard.com/files/media/top-songs-of-1999-fea-2019-billboard-1500-768x433.jpg"); */
+   text-align: center;
+   align-items: center;
+   height: 433px;
+   width: 720px;
+}
+
+#tv-choice{
+    /* display: inline-block; */
+    background:  linear-gradient(
+        rgba(15, 15, 15, 0.45), 
+        rgba(15, 15, 15, 0.45)
+      ), url("https://i.pinimg.com/originals/a8/b5/e6/a8b5e6e43f843f030ddb4ccdd88e63b6.jpg");
+    /* background-image: url("https://static.billboard.com/files/media/top-songs-of-1999-fea-2019-billboard-1500-768x433.jpg"); */
+   text-align: center;
+   align-items: center;
+   height: 433px;
+   width: 720px;
+}
+
+#song-choice{
+    /* display: inline-block; */
+    background:  linear-gradient(
+        rgba(44, 44, 44, 0.45), 
+        rgba(44, 44, 44, 0.45)
+      ), url("https://static.billboard.com/files/media/top-songs-of-1999-fea-2019-billboard-1500-768x433.jpg");
+    /* background-image: url("https://static.billboard.com/files/media/top-songs-of-1999-fea-2019-billboard-1500-768x433.jpg"); */
+   text-align: center;
+   align-items: center;
+   height: 433px;
+   width: 720px;
+}
+
+#game-choice{
+     /* display: inline-block; */
+     background:  linear-gradient(
+        rgba(44, 44, 44, 0.45), 
+        rgba(44, 44, 44, 0.45)
+      ), url("https://images.gamewatcherstatic.com/image/file/0/3d/84200/1.png");
+    /* background-image: url("https://static.billboard.com/files/media/top-songs-of-1999-fea-2019-billboard-1500-768x433.jpg"); */
+   text-align: center;
+   align-items: center;
+   height: 433px;
+   width: 720px;
+}

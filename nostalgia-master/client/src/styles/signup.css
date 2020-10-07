@@ -1,0 +1,70 @@
+*{
+    margin:0 auto;
+    padding:0;
+}
+
+/* body {
+ 	background-image:url('https://www.psdgraphics.com/wp-content/uploads/2015/06/mosaic-background.png');
+ } */
+
+
+
+.signup {
+	 text-align: center; 
+}
+.signupBox {
+	text-align: center;
+    height: 40vh;
+    margin: 0 auto;
+    margin-top: 25vh;
+    width: 30vw;
+    border: 2px solid darkslategray;
+    border-radius: 30px;
+    background-color: #537AAA;
+}
+
+.signupBox .title {
+	font-family: "Open Sans";
+	font-size: 3vw;
+}
+
+
+input {
+    outline-style: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    border: 0px;
+    width: 20vw;
+    height: 3vw;
+    margin-top: 5px;
+}
+
+.signupBox button {
+	display: inline-block;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font: 14px/100% Arial, Helvetica, sans-serif;
+    padding: 5px 2px 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+    color: #d9eef7;
+    border: solid 1px #0076a3;
+    background: #0095cd;
+    background: -webkit-gradient(linear, left top, left bottom, from(#0095cc), to(#00678e));
+    background: -moz-linear-gradient(top, #00adee, #00678e);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00adee', endColorstr='#00678e');
+}
+
+.signupBox button:hover {
+    background: #007ead;
+    background: -webkit-gradient(linear, left top, left bottom, from(#00678e), to(#0095cc));
+    background: -moz-linear-gradient(top, #00678e, #0095cc);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00678e', endColorstr='#0095cc');
+}
